@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "c5Uff+u+Qx0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gfmal\\OneDrive\\Desktop\\ApiRegistrosDiarios\\ApiRegistrosDiarios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gfmal\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\gfmal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\gfmal\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\gfmal\\.nuget\\packages\\mysqlconnector\\2.5.0\\mysqlconnector.2.5.0.nupkg.sha512",
+    "C:\\Users\\gfmal\\.nuget\\packages\\swashbuckle.aspnetcore\\10.0.1\\swashbuckle.aspnetcore.10.0.1.nupkg.sha512",
+    "C:\\Users\\gfmal\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.0.1\\swashbuckle.aspnetcore.swagger.10.0.1.nupkg.sha512",
+    "C:\\Users\\gfmal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.0.1\\swashbuckle.aspnetcore.swaggergen.10.0.1.nupkg.sha512",
+    "C:\\Users\\gfmal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.0.1\\swashbuckle.aspnetcore.swaggerui.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
